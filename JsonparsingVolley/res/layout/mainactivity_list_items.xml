@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/col_dark_gray"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView_MainActivity_list_items_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/MainActivity_list_items_nameTitle"
+            android:textColor="@color/col_white"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_MainActivity_list_items_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/MainActivity_list_items_name"
+            android:textColor="@color/col_white" />
+
+        <TextView
+            android:id="@+id/textView_MainActivity_list_items_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/MainActivity_list_items_emailTitle"
+            android:textColor="@color/col_white"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_MainActivity_list_items_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/MainActivity_list_items_email"
+            android:textColor="@color/col_white" />
+
+        <TextView
+            android:id="@+id/textView_MainActivity_list_items_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/MainActivity_list_items_phoneTitle"
+            android:textColor="@color/col_white"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_MainActivity_list_items_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/MainActivity_list_items_phone"
+            android:textColor="@color/col_white" />
+
+        <TextView
+            android:id="@+id/textView_MainActivity_list_items_gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/MainActivity_list_items_genderTitle"
+            android:textColor="@color/col_white"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_MainActivity_list_items_gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/MainActivity_list_items_gender"
+            android:textColor="@color/col_white" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="9dp"
+        android:layout_marginRight="9dp"
+        android:background="@color/col_drak_fb_blue" />
+
+</LinearLayout>

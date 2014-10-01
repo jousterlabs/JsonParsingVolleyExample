@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JsonParsingVolleyLib</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Start Color Code -->
+    <color name="col_drak_red">#dd3e45</color>
+    <color name="col_drak_yellow">#ffc600</color>
+    <color name="col_light_yellow">#d7b437</color>
+    <color name="col_drak_fb_blue">#3c75b6</color>
+    <color name="col_light_fb_blue">#81b4ee</color>
+    <color name="col_dark_blue">#495f6e</color>
+    <color name="col_light_blue">#81909d</color>
+    <color name="col_white">#ffffff</color>
+    <color name="col_light_gray">#efefef</color>
+    <color name="col_dark_gray">#bec5ce</color>
+    <color name="col_blue">#2e69f0</color>
+    <color name="col_lightwhite">#c0bebe</color>
+    <color name="col_light_blue_text">#ebf0f7</color>
+    <color name="col_light_red">#fdc6c9</color>
+    <color name="col_light_blu">#6e87b4</color>
+    <color name="col_light_white">#eeeeee</color>
+    <color name="col_light_text">#50555b</color>
+    <color name="col_light_textbackground">#eef2f8</color>
+    <!-- End Color Code -->
+    
+    <!-- Start MainActivity -->
+    <string name="MainActivity_list_items_demo">Data Not Available</string>
+    <string name="MainActivity_list_items_nameTitle">Name</string>
+    <string name="MainActivity_list_items_name">Sudhir Ranjan</string>
+    <string name="MainActivity_list_items_emailTitle">Email Id</string>
+    <string name="MainActivity_list_items_email">ranjan.sudhir1@gmail.com</string>
+    <string name="MainActivity_list_items_phoneTitle">Phone Number</string>
+    <string name="MainActivity_list_items_phone">+91-7483279900</string>
+    <string name="MainActivity_list_items_genderTitle">Gender</string>
+    <string name="MainActivity_list_items_gender">male</string>
+    <!-- End MainActivity -->
+
+</resources>
